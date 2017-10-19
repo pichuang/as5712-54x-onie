@@ -1,5 +1,5 @@
 # as5712-54x-onie
 
-These files are only for `UNH-IOL` using.
+These files are for the use of `UNH-IOL` ONLY.
 
-**Any use of and reliance of such files are at your own risk**
+**Any use of, or reliance upon these file is completely at your own risk.**
